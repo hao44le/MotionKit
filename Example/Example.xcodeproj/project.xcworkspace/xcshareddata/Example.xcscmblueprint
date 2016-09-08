@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "250CB6B29D4B37694D957A06B8747B3A6F0D19C9",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "250CB6B29D4B37694D957A06B8747B3A6F0D19C9" : 0,
+    "0AD0CF4CC579879FDDE65582CCF9532E9A9D1D6E" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "BB1DB258-1B54-46F4-AB50-5526B71C1257",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "250CB6B29D4B37694D957A06B8747B3A6F0D19C9" : "MotionKit-master\/",
+    "0AD0CF4CC579879FDDE65582CCF9532E9A9D1D6E" : "MotionKit"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Example",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Example\/Example.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/MHaroonBaig\/MotionKit.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "0AD0CF4CC579879FDDE65582CCF9532E9A9D1D6E"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/hao44le\/MotionKit.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "250CB6B29D4B37694D957A06B8747B3A6F0D19C9"
+    }
+  ]
+}
